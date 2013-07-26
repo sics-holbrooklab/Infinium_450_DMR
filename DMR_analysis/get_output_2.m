@@ -1,4 +1,4 @@
-function[AAREA,DIFF,CRR,Sstart,HOWpr,GGENE,CCPG]=get_output_2(a1,b1,c1,d1,e1,f1,g1)
+function[AAREA,DIFF,CRR,Sstart,HOWpr,GGENE,CCPG]=get_output_2(a1,b1,c1,d1,e1,f1,g1,a,b,c,d,e,f,g)
 
 
 [RR1 YR1]=sort(a1,'descend');
